@@ -1,4 +1,13 @@
 # CFE SKINS
+<p align="center">
+  <a href="https://osu.ppy.sh/users/11682403">
+  <img src="https://a.ppy.sh/11682403"  
+       width="175"
+       height="175"></a>
+
+<br>
+Last Updated <b>24/11/24</b>
+</p>
 
 # [CFE BLUEHMHM NM](https://github.com/AgentTanaka/cfe/raw/main/skins/CFEHMHMverNM.osk)
 [![](https://github.com/user-attachments/assets/4018d930-5dd5-4b76-b4a3-d48b3377a49a)](https://github.com/AgentTanaka/cfe/raw/main/skins/CFEHMHMverNM.osk)
