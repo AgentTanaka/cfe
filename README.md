@@ -1,4 +1,4 @@
-# SKINHUB
+# Skins
 <p align="center">
   
   <br>
