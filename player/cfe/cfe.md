@@ -9,8 +9,8 @@
 Last Updated <b>24/11/24</b>
 </p>
 
-# [CFE BLUEHMHM NM](https://github.com/AgentTanaka/cfe/raw/main/skins/CFEHMHMverNM.osk)
-[![](https://github.com/user-attachments/assets/4018d930-5dd5-4b76-b4a3-d48b3377a49a)](https://github.com/AgentTanaka/cfe/raw/main/skins/CFEHMHMverNM.osk)
+# [CFE BLUEHMHM NM](https://github.com/AgentTanaka/cfe/raw/main/player/cfe/CFEHMHMverNM.osk)
+[![](https://github.com/user-attachments/assets/4018d930-5dd5-4b76-b4a3-d48b3377a49a)](https://github.com/AgentTanaka/cfe/raw/main/player/cfe/CFEHMHMverNM.osk)
 
 # [CFE HR]()
 [![](https://github.com/user-attachments/assets/9f4fda7a-fd06-4ce7-b5ef-82a865abea18)]()
