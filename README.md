@@ -6,7 +6,6 @@
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/<skin-hub>"/>  
     </div>
-
 </p>
 
 </br>
